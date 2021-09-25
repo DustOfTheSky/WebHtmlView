@@ -1,0 +1,14 @@
+
+1.
+html 实现自定义组件
+HtmlVIew  是接口类
+
+2.
+组件标签属性
+if 类似于 v-if
+of 类似于 v-for
+
+3.demo
+circle 和 hello   都实现继承HtmlView类中，三个前缀为override 的方法
+可参照    index5.html   HtmlViewTest.js 内容  
+
